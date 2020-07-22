@@ -5,3 +5,10 @@ A design pattern is a recurring solution to common problems in software design. 
 1. Creational
 2. Structural
 3. Behavioral
+
+### Creational Pattern types
+- Singleton
+- Builder
+- Prototype
+- Factory
+- AbstractFactory
